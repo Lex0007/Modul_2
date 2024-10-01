@@ -51,3 +51,23 @@ Objekte von Subklassen können verwendet werden, wo Objekte eines Supertyps erwa
 
 - Sammlungen akzeptieren Objekte aller Typen, da sie Elemente vom Typ Object annehmen.
 - Da alle Klassen in Java Subtypen von Object sind, können auch alle Klassenobjekte in Sammlungen eingefügt werden.
+---
+
+## Video 2
+
+## Vererbung
+
+- Subklassen erben von Superklassen
+- Superklassen erben nicht von Subklassen
+### Die verschiedenen Typen
+![Typen](images/typen.png)
+![Typen erweiter](images/typen2.png)
+
+### Überschreiben
+![überschreiben Punkte](images/ueberschreiben.png)
+
+![Methodenüberschreibung](images/methode.png)
+
+#### Ein Beispiel
+![bsp.](images/bsp.png)
+
