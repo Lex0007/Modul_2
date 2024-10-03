@@ -71,3 +71,16 @@ Objekte von Subklassen können verwendet werden, wo Objekte eines Supertyps erwa
 #### Ein Beispiel
 ![bsp.](images/bsp.png)
 
+## Video 3
+### Konstitutive
+Teilkonzepte des Methodenpolymorphismus- Vererbung- 
+Überschreiben von Methoden- Ersetzbarkeit- Dynamische 
+Bindung 
+
+## Video 4
+### Aufbau einer polymorphen Codebasis
+- Vererbung einsetzen
+- Vollständige Schnittstellen bereitstellen in den oberen Klassen- Überchreiben von Methoden mit
+subtypenabhängiger Funktionalität
+- Entkopplung bzw. Ersetzbarkeit anwenden (bei der Verwendung der polymorphen Klassenhierrachie)
+- dynamische Bindung nutzen (eigentlicher polymoprher Methodenaufruf) 
